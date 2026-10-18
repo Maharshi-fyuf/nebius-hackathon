@@ -229,4 +229,8 @@ Open the URL printed by Vite (usually `http://localhost:5173`).
 
 ## License
 
+<<<<<<< HEAD
 MIT, see [LICENSE](LICENSE). `TODO: add the LICENSE file before publishing`.
+=======
+MIT, see [LICENSE](LICENSE). `TODO: add the LICENSE file before publishing`.
+>>>>>>> origin/main
